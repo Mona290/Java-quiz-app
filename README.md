@@ -1,5 +1,6 @@
 # Online-Examination-System
-This Java program implements a simple online examination system using Swing for the GUI. 
+This Java program implements a simple online examination system using Swing for the GUI.
+
 It presents multiple-choice questions to the user and provides a result based on their answers.
 
 # Getting Started
@@ -7,12 +8,15 @@ It presents multiple-choice questions to the user and provides a result based on
 # Prerequisites
 
 1.Java Development Kit (JDK)
+
 2.IDE (Integrated Development Environment) supporting Java, like IntelliJ IDEA or Eclipse
 
 # How to Run
 
 1.Clone or download the repository.
+
 2.Open the project in your preferred Java IDE.
+
 3.Locate the OnlineTest.java file and run it.
 
 # Usage
